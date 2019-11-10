@@ -1,0 +1,8 @@
+adding new project to github
+1. make new repository from github website
+2. echo "# darkCycleGAN" >> README.md
+3. git init
+4. git add README.md
+5. git commit -m "first commit"
+6. git remote add origin https://github.com/PrabhuSM16/darkCycleGAN.git
+7. git push -u origin master
